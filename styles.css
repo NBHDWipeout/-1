@@ -1,0 +1,39 @@
+.Nav {
+    display: flex;
+    justify-content: center;
+    background-color: #efccf0;
+    margin: 10px;
+    padding: 5px;
+}
+
+.pig {
+    margin: 10px;
+    padding: 5px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border: solid 10px lightblue;
+
+}
+
+.cap {
+    display: flex;
+    justify-content: flex-start;
+    background-color: #efccf0;
+    margin: 10px;
+    padding: 5px;
+    width: 300px;
+
+}
+
+.comments {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #efccf0;
+}
+
+.box {
+    border: 10px blue;
+}
